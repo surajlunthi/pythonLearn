@@ -13,4 +13,4 @@ print(name[-1])
 print(name[0:2]) #su
 
 print(name[1:4]) #ura
-print(name[1:]+'learning concate')
+print(name[1:]+'learning conctate')
